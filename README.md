@@ -15,4 +15,4 @@
 
 - 📫**ernydmrea@gmail.com**   -
 
-- <a href="https://linkedin.com/in/linkedin.com/ernydmr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/ernydmr" height="30" width="40" /></a>
+- <a href="https://linkedin.com/in/ernydmr" target="blank"><img align="center" src="https://www.avansas.com/blog/wp-content/uploads/2022/03/linkedin-nedir-ne-ise-yarar-isletmeler-icin-linkedin-sirket-hesabi-olusturma-ve-silme-1-950x500.jpeg" alt="linkedin.com/ernydmr" height="30" width="40" /></a>
