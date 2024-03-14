@@ -2,8 +2,9 @@
 <h3 align="center">currently a 3rd-year Computer Engineering student at Mugla Sitki Kocman University</h3>
 
 
-        <h2 align="center">My Projects:</h2>
-        [City Card](https://github.com/ernydmr/CityCard)
+<h2 align="center">My Projects:</h2>
+
+[City Card](https://github.com/ernydmr/CityCard)
 
 
 <h3 align="left">Languages and Tools:</h3>
