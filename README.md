@@ -3,11 +3,7 @@
 
 
         <h2 align="center">My Projects:</h2>
-        
-            <a href="https://github.com/ernydmr/CityCard ">City Card Application 1</a>
-            <a href="#">Proje Adı 2</a>: Kısa bir açıklama ekleyin.
-            <a href="#">Proje Adı 3</a>: Kısa bir açıklama ekleyin.
-
+        [City Card](https://github.com/ernydmr/CityCard)
 
 
 <h3 align="left">Languages and Tools:</h3>
