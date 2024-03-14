@@ -1,14 +1,12 @@
 <h1 align="center">Hi, I'm Eren</h1>
 <h3 align="center">currently a 3rd-year Computer Engineering student at Mugla Sitki Kocman University</h3>
 
-      <section id="projects">
-        <h2>My Projects:</h2>
-        <ul>
-            <li><a href="#">Proje Adı 1</a>: Kısa bir açıklama ekleyin.</li>
-            <li><a href="#">Proje Adı 2</a>: Kısa bir açıklama ekleyin.</li>
-            <li><a href="#">Proje Adı 3</a>: Kısa bir açıklama ekleyin.</li>
-        </ul>
-    </section>
+
+        <h2 align="center">My Projects:</h2>
+        
+            <a href="https://github.com/ernydmr/CityCard ">City Card Application 1</a>
+            <a href="#">Proje Adı 2</a>: Kısa bir açıklama ekleyin.
+            <a href="#">Proje Adı 3</a>: Kısa bir açıklama ekleyin.
 
 
 
