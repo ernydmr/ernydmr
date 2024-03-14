@@ -4,7 +4,9 @@
 
 <h2 align="center">My Projects:</h2>
 
-[City Card](https://github.com/ernydmr/CityCard)
+<p align="center">[City Card ](https://github.com/ernydmr/CityCard)</p>
+<p align="center">[Student Management System ](https://github.com/ernydmr/StudentManagementSystem)</p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
