@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Eren</h1>
-<h3 align="center">currently a 3rd-year Computer Engineering student at Mugla Sitki Kocman University</h3>
+<h3 align="center">currently a 4th-year Computer Engineering student at Mugla Sitki Kocman University</h3>
 
 
 <h1 align="center">My Projects:</h2>
