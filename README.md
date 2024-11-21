@@ -1,19 +1,21 @@
-<h1 align="center">Hi, I'm Eren</h1>
-<h3 align="center">currently a 4th-year Computer Engineering student at Mugla Sitki Kocman University</h3>
+<h1 align="center">Hi, I'm Eren 👋</h1>
+<h3 align="center">A 4th-year Computer Engineering student at Mugla Sitki Kocman University</h3>
 
+---
 
-<h1 align="center">My Projects:</h2>
+<h1 align="center">🚀 My Projects</h1>
 
-- <h2 align="center">https://github.com/ernydmr/CityCard</h2>
-- <h2 align="center">https://github.com/ernydmr/StudentManagementSystem</h2>
-- <h2 align="center">https://github.com/ernydmr/DrugsData</h2>
-- <h2 align="center">https://github.com/ernydmr/WebScraping</h2>
+<h3 align="center">
+    <a href="https://github.com/ernydmr/CityCard" target="_blank">CityCard</a> |
+    <a href="https://github.com/ernydmr/StudentManagementSystem" target="_blank">Student Management System</a> |
+    <a href="https://github.com/ernydmr/DrugsData" target="_blank">Drugs Data</a> |
+    <a href="https://github.com/ernydmr/WebScraping" target="_blank">Web Scraping</a>
+</h3>
 
+---
 
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">💻 Languages and Tools</h3>
+<p align="center">
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
     </a>
@@ -43,7 +45,17 @@
     </a>
 </p>
 
+---
 
-- 📫**ernydmrea@gmail.com**   -
+<h3 align="center">📫 How to Reach Me</h3>
+<p align="center">
+    <a href="mailto:ernydmrea@gmail.com">
+        <strong>Email:</strong> ernydmrea@gmail.com
+    </a>
+    <br><br>
+    <a href="https://linkedin.com/in/ernydmr" target="_blank">
+        <img src="https://www.avansas.com/blog/wp-content/uploads/2022/03/linkedin-nedir-ne-ise-yarar-isletmeler-icin-linkedin-sirket-hesabi-olusturma-ve-silme-1-950x500.jpeg" alt="LinkedIn Profile" height="60" width="150"/>
+    </a>
+</p>
 
-- <a href="https://linkedin.com/in/ernydmr" target="blank"><img align="center" src="https://www.avansas.com/blog/wp-content/uploads/2022/03/linkedin-nedir-ne-ise-yarar-isletmeler-icin-linkedin-sirket-hesabi-olusturma-ve-silme-1-950x500.jpeg" alt="linkedin.com/ernydmr" height="80" width="120" /></a>
+---
