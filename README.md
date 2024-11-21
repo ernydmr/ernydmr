@@ -6,10 +6,10 @@
 <h1 align="center">🚀 My Projects</h1>
 
 <h3 align="center">
-    <a href="https://github.com/ernydmr/CityCard" target="_blank">CityCard</a> |
-    <a href="https://github.com/ernydmr/StudentManagementSystem" target="_blank">Student Management System</a> |
-    <a href="https://github.com/ernydmr/DrugsData" target="_blank">Drugs Data</a> |
-    <a href="https://github.com/ernydmr/WebScraping" target="_blank">Web Scraping</a>
+    <a href="https://github.com/ernydmr/WebScraping" target="_blank">Web Scraping</a> |
+    <a href="https://github.com/ernydmr/StudentManagementSystem" target="_blank">Student Management System</a>  |
+    <a href="https://github.com/ernydmr/CityCard" target="_blank">City Card</a> |
+    <a href="https://github.com/ernydmr/DrugsData" target="_blank">Drugs Data</a> 
 </h3>
 
 ---
